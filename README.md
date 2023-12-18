@@ -216,6 +216,6 @@ contains all logging related ex. health check, log level.
 
 contains middlewares that check the request before access the controllers.
 
-### docs
+#### docs
 
 documentation, mostly only openapi.yaml
